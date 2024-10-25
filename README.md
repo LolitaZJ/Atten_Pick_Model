@@ -6,6 +6,7 @@ Ji Zhang
 
 # Atten_PK_Model 
 Atten_PK_Model is an attention-based neural network to achieve the phase picking. 
+Earthquake detection and phase picking using machine learning with an attention mechanism.
 
 
 ## 1. Set envirnoment 
